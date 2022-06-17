@@ -12,3 +12,5 @@ Should not have used the test set to find  optimal threshold.
 Could try with other models not taught in class.
 
 Should have tried to use the validate set more.
+
+Can explore data using different visualization tools
